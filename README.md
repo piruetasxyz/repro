@@ -8,3 +8,7 @@
 - Salida MIDI DIN
 
 ## Diagrama de flujo
+
+## Materiales
+
+- Raspberry Pi Zero 2 W
